@@ -1,0 +1,9 @@
+package com.tcf.introJava;
+
+public class world {
+	  public void display()
+      {
+        System.out.println("Hello world..");
+      }
+}
+
